@@ -1,6 +1,6 @@
 import OpenAI from 'openai';
 const openai = new OpenAI({
-    apiKey: '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',
+    apiKey: '123',
 });
 
 // Example dummy function hard coded to return the same weather
